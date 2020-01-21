@@ -1,7 +1,7 @@
 // create your App component here
-import React from 'react';
+import React, {Component} from 'react';
 
-class App extends React.Component {
+class App extends Component {
   
   state ={
     peopleInSpace: []
